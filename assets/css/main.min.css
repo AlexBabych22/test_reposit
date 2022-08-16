@@ -13351,7 +13351,7 @@ body :focus:not(.focus-visible) {
 }
 
 .bg-fonts {
-  background-image: url(/assets/img/wood.png);
+  background-image: url(../assets/img/wood.png);
   background-repeat: no-repeat;
   background-position: top center;
   background-color: #222021;
