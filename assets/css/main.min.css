@@ -4,8 +4,8 @@
 @charset "UTF-8";
 @font-face {
   font-family: "icomoon";
-  src: url(/assets/fonts/icomoon.eot);
-  src: url(/assets/fonts/icomoon.eot#iefix) format("embedded-opentype"), url(/assets/fonts/icomoon.ttf) format("truetype"), url(/assets/fonts/icomoon.woff) format("woff"), url(/assets/fonts/icomoon.svg#icomoon) format("svg");
+  src: url(../fonts/icomoon.eot);
+  src: url(../fonts/icomoon.eot#iefix) format("embedded-opentype"), url(../fonts/icomoon.ttf) format("truetype"), url(../fonts/icomoon.woff) format("woff"), url(../fonts/icomoon.svg#icomoon) format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -33,7 +33,7 @@
 
 @font-face {
   font-family: "Kyiv";
-  src: url(/assets/fonts/KyivTypeSans-Regular-.woff) format("woff"), url(/assets/fonts/KyivTypeSans-Regular-.woff2) format("woff2");
+  src: url(../fonts/KyivTypeSans-Regular-.woff) format("woff"), url(../fonts/KyivTypeSans-Regular-.woff2) format("woff2");
 }
 * {
   font-family: "Inter";
@@ -13390,7 +13390,7 @@ body :focus:not(.focus-visible) {
 }
 
 .bg-header {
-  background-image: url(/assets/img/imag-fone.png);
+  background-image: url(../img/imag-fone.png);
   background-repeat: no-repeat;
   background-position: top left;
   background-size: 100%;
@@ -13680,19 +13680,19 @@ body :focus:not(.focus-visible) {
   }
 }
 .scroll_block ul li {
-  list-style-image: url(/assets/img/twemoji_check-mark-mini.png);
+  list-style-image: url(../img/twemoji_check-mark-mini.png);
 }
 @media screen and (min-width: 768px) {
   .scroll_block ul li {
-    list-style-image: url(/assets/img/twemoji_check-mark.png);
+    list-style-image: url(../img/twemoji_check-mark.png);
   }
 }
 .scroll_block ul li:last-child {
-  list-style-image: url(/assets/img/maki_cross-mini.png);
+  list-style-image: url(../img/maki_cross-mini.png);
 }
 @media screen and (min-width: 768px) {
   .scroll_block ul li:last-child {
-    list-style-image: url(/assets/img/maki_cross.png);
+    list-style-image: url(../img/maki_cross.png);
   }
 }
 
@@ -13824,7 +13824,7 @@ body {
 .swiper-button-next-custom, .swiper-button-prev-custom {
   width: 14px;
   height: 14px;
-  background-image: url(/assets/img/Vector.svg);
+  background-image: url(../img/Vector.svg);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -14082,7 +14082,7 @@ hr {
   .seventh-section {
     padding-bottom: 109px;
     margin-top: 192px;
-    background-image: url(/assets/img/image_wood.png);
+    background-image: url(../img/image_wood.png);
     background-repeat: no-repeat;
     background-size: 450px;
     background-position: top 350px right -20px;
@@ -14333,7 +14333,7 @@ hr {
 }
 
 .bg-404 {
-  background-image: url(/assets/img/wood.png);
+  background-image: url(../img/wood.png);
   background-repeat: no-repeat;
   background-position: top center;
   background-color: #222021;
